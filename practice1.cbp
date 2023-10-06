@@ -34,6 +34,9 @@
 		<Unit filename="add.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="array.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
